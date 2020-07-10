@@ -1,0 +1,61 @@
+body {
+  color: #283618;
+  background-color: #fefae0;
+}
+
+h1 {
+  color: #606c38;
+}
+
+a {
+  color: #dda15e;
+}
+
+a:hover {
+  color: #606c38;
+}
+
+nav {
+  background: #dda15e;
+  padding: 10px 0px;
+}
+
+.menu {
+  color: #bc6c25; 
+  padding: 0px 5px;
+}
+
+.menu:hover {
+  color: #dda15e;
+  padding: 10px 5px;
+  background-color: #bc6c25;
+}
+
+.current {
+  color: #606c38; 
+}
+
+.current:hover {
+  color: #606c38;
+}
+
+.contacts {
+  color: #dda15e;
+}
+
+#p1 {
+  color: red;
+}
+
+.photo {
+  padding: 10px; /* Поля внутри блока */
+  margin: 10px 0 5px 5px; /* Отступы вокруг */
+  background: #dda15e; /* Цвет фона */ 
+  border-radius: 15px;
+  text-align: center;
+}
+
+ img {
+   margin: 0 10px;
+   border-radius: 15px;
+ }
